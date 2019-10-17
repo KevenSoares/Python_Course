@@ -17,3 +17,5 @@ print(int(5/2))
 print(2**8)
 #  how to separate a big number
 print(1_000_000)
+
+print(type(num))
