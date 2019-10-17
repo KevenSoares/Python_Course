@@ -12,3 +12,5 @@ name = name.title()
 print("{0} is now {1}" .format(name, age))
 #  new format since 3.7.x version
 print(f'{name} is {age}')
+#  how to cast a variable
+print(f'{name} was born on {2019 - int(age)}')
