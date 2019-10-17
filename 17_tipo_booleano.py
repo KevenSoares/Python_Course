@@ -30,5 +30,3 @@ print(deactivate and deactivate)
 print(deactivate and active)
 print(active and deactivate)
 print(active and active)
-
-
