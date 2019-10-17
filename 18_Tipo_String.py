@@ -44,4 +44,5 @@ print(name[6:13])
 print(name.split())
 #  vai do primeiro ao ultimo elemento e inverte
 print(name[::-1])
+print(name.replace('k', 'V'))
 
