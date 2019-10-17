@@ -4,7 +4,7 @@ name = input()
 
 #  Processamento
 
-name = name.title()
+name = name.upper()
 
 #  Saída
 
