@@ -1,12 +1,13 @@
 #  Entrada
-print("name")
+print("name?")
 name = input()
-
+print("age?")
+age = input()
 #  Processamento
 
-name = name.upper()
+name = name.title()
 
 #  Saída
 
-print("seja bem vindo(a) %s" % name)
+print("%s is now %s" % (name, age))
 
