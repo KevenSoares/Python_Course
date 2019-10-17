@@ -8,6 +8,7 @@ age = input()
 name = name.title()
 
 #  Saída
-
-print("%s is now %s" % (name, age))
-
+#  modern format:
+print("{0} is now {1}" .format(name, age))
+#  new format since 3.7.x version
+print(f'{name} is {age}')
