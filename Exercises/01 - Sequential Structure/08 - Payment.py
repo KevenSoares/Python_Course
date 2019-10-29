@@ -10,3 +10,4 @@ WorkHours = float(input("Enter how many hour you've worked this month: "))
 
 print(f'Your salary is {PricePerHour*WorkHours} R$')
 
+
