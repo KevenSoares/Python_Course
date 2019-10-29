@@ -1,7 +1,7 @@
 """
 Exercise
 
-9 - Make a Program that asks for temperature in Celsius degrees , transforms and shows temperature in degrees Farenheit
+10 - Make a Program that asks for temperature in Celsius degrees , transforms and shows temperature in degrees Farenheit
 
 """
 
