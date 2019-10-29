@@ -1,0 +1,12 @@
+"""
+Exercise
+
+13 - Taking as input the height (h) of a person, construct an algorithm that calculates their ideal weight using
+     the following formulas:
+13.1 - For men: (72.7 * h) - 58
+13.2 - For women: (62.1 * h) - 44.7
+
+"""
+height = float(input("Enter your height: "))
+print(f'If you are a guy your ideal wight is {(72.7 * height) - 58}')
+print(f'If you are a girl your ideal wight is {(62.1 * height) - 44.7}')
