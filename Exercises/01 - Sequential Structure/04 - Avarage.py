@@ -9,3 +9,4 @@ n2 = float(input("Insert n2: "))
 n3 = float(input("Insert n3: "))
 n4 = float(input("Insert n4: "))
 print((n1+n2+n3+n4)/4)
+
