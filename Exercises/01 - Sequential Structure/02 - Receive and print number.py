@@ -9,3 +9,4 @@ The entered number was: [NUMBER]
 num = input("Enter a number: ")
 print(f'The entered number was: {num}')
 
+
