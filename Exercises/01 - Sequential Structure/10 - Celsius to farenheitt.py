@@ -7,3 +7,4 @@ Exercise
 
 tempc = int(input("Enter the temperature in Celsius: "))
 print(f'temperature in celsius is {(9*(tempc+32))/5} °F')
+
