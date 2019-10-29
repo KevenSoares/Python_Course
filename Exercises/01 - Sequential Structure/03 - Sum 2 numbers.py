@@ -9,3 +9,4 @@ Exercise
 n1 = int(input("Insert n1: "))
 n2 = int(input("Insert n2: "))
 print(n1+n2)
+
