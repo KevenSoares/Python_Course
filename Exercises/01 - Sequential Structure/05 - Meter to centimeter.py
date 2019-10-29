@@ -7,3 +7,4 @@ Exercise
 
 meter = float(input("Insert a measure in meter: "))
 print(f'the measure in centimeters is {meter*100} cm')
+
