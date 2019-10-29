@@ -14,3 +14,4 @@ n3 = float(input("Enter n3: "))
 print((n1*2)*(n2/2))
 print((3*n1)+n3)
 print(n3**3)
+
