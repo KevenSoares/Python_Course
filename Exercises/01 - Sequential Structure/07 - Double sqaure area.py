@@ -7,3 +7,4 @@ Exercise
 
 side = float(input("Enter the size of the side of the square: "))
 print(f'The double of the area is {(side**2)*2}')
+
