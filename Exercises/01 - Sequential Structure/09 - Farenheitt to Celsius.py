@@ -7,3 +7,4 @@ Exercise
 
 tempf = int(input("Enter the temperature in Farenheitt: "))
 print(f'temperature in celsius is {(5*(tempf-32))/9} °C')
+
