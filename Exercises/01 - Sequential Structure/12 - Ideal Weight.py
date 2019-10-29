@@ -1,7 +1,7 @@
 """
 Exercise
 
-11 - Taking input as a person's height, construct an algorithm that calculates their ideal weight using the following
+12 - Taking input as a person's height, construct an algorithm that calculates their ideal weight using the following
      formula: (72.7 * height) - 58
 
 """
