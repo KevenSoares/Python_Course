@@ -7,3 +7,4 @@ Exercise
 
 radius = float(input("Enter the circles radius: "))
 print(f'The circle area is: {radius*2*3.14}')
+
